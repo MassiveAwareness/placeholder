@@ -1,4 +1,4 @@
-// Alpha v1.1.0
+// Alpha v1.1.1
 
 // Initial variables/arrays
 let upgradeCosts = {
