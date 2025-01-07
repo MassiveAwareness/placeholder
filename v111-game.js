@@ -140,6 +140,7 @@ function calculateProduction(buildingType) {
 
 function calcutatePopulation() {
     const totalHousePopulation = calculateProduction('houses');
+    playerData.population = totalHousePopulation;
     populationIndicator.textContent = totalHousePopulation;
 }
 
