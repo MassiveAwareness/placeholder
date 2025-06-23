@@ -432,7 +432,7 @@
     
     - Érdekességek
         - A Kriptában élők nem kommunikálnak hangosan. Ehelyett emléklenyomatokat cserélnek, melyek közvetlenül a tudatba vetülnek (mágikus etikett szükséges a fogadásukhoz)
-        - Létezik egy "Emlékpiac" (Mnemosyne Bazaar), ahol az emberek élők és holtak emlékeit árulják - fiatalkori álmok, utolsó csókok, gyerekkori félelmek
+        - Létezik egy "Emlékpiac" (Mnemosyne Bazaar), ahol az emberek élők és holtak emlékeit árulják - fiatalkori álmok, gyerekkori félelmek
         - Az itt kefejlesztett technikák révén mágikus hatalom konvertálható emlékké, és fordítva
     
     - Hatalom és rend
@@ -492,3 +492,136 @@
         - "Aki áenyékát elvesztette, már nem fél a tűztől." - Árnyjáró bölcsesség
         - "Ott lent nem vagy te, csak az a te, aki nem mertél lenni." - Sötétcsend Vándora
         - "A Mélység nem néma. Csak nem veled beszél." - Threvaki emlékpap
+
+- **<u>Darn'Khael, az Elfeledett Királyság</u>**
+    - Típus: Ősi összeomlott városállam, múltbörtön és árnymemórium
+    - Sík: Árny Síkja
+    - Kulcselemei: Romok közt fennmaradt uralmi struktúrák, élő emlék-illúziók, árnyékbirodalom, múltbeli identitásokkal fertőző gondolatok
+    - Különlegességek: Az emlékezés itt varázshatású, de veszélyes: a túlzott elmélkedés megváltoztatja a valóságot, és az emlékek visszaformálnak téged a hajdani uralkodók bábjává.
+    
+    - **<u>Eredet:</u>** Darn'Khael egykor a legfényesebb árnyékkirályság volt, az Árny Síkjának szívében, ahol a múltat nem felejtették, hanem újra és újra újrajátszották.
+    A király, IX. Ethemir, mágikus emlékekből építette fel birodalmát, és parancsba adta: "Semmit se felejts el - különben újra megtörténik!"
+    Ám a memória túlcsordult. A város végül önmagát ismételte, a lakók pedig elvesztették, hogy kik ők - mert már annyi másra is "emlékeztek" magukról.
+    A királyság összeomlott: nem fizikailag, hanem időben és emlékezetben. A falak még állnak, a trón még megvan, a név még visszhangzik - de senki nem tudja, mi történt pontosan.
+
+    - Leírás és megjelenés
+        - A város határozottan megőrizte a struktúráját, de mintha minden másodpercben külön korszakból származna
+            - Egy torony lehet frissen emelt vagy ezeréves omladék, attól függően, ki nézi
+        - A tér árnyékos, de nem sötét - az épületek önmaguk árnyékaában állnak, mint valami idézett kép
+        - Az utcákon emléklények (Echoforms) bolyonganak: torzított visszhangok, akik ismételnek egyetlen mozdulatot vagy mondatot újra és újra
+    
+    - Az emlékezés mágiája: Darn'Khael területén minden gondolat, amely a múltra irányul, mágikus impulzusként rezonál:
+        - Egyegyszerű emlék képpé vagy hanggá materializálódhat a levegőben
+        - Ha valaki túl sokáig gondol egy régmúlt történésre, az árnylénnyé válik: saját személyisége elmosódik, helyét átveszi egy hajdani verziója
+        - Az Emlékburok-jelenség (Echo-Skin) során az emberek fizikailag is visszaalakulnak azokká, akik voltak - vagy akikről hiszik, hogy voltak
+    
+    - A Trónterem még áll, bár fény sosem érinti. A trónon mindig ül valaki, de senki sem tudja pontosan ki az.
+        - Egyesek szerint mindenki, aki megpróbál emlékezni rá, más arcot lát
+        - Mások azt állítják, maga az Árny Síkja ül ott, névtelenül és formátlanul
+        - A régi tanácsadók árnyai, az úgynevezett Memóriagardisták (Keepers of Forgotten Counsel) őrzik a trónkört, és megszállják azokat, akik túl közel merészkednek
+    
+    - Lakók és veszélyek
+        - Árnyidentitások (Shadowselves): emberek, akik valaha jártak itt, és saját emlékük itt maradt - most önálló, illúziós árnyéklényekként élnek tovább
+        - Az Emlékező Szemek (Remembering Eyes): lebegő, szálas szövetű entitások, amelyek megszállják az emlékezőket, hogy "megőrizzék, amit nem szabad"
+        - A Visszajátszók (Replayers): torzult figurák, akik egyetlen pillanatot élnek újra - gyakran tragikus vagy véres eseményeket
+    
+    - A város mágikus hatása
+        - Időtorzulás: A városban töltött idő szubjektív - lehet, hogy egy óra valójában egy év emlékét hagyja benned
+        - Emlékkettőzés: Egyesek másolatokat látnak önmagukból, akik olyan emlékeket viselnek, amik nem történtek meg - de lehetségesek lettek volna
+        - A felejtés ára: Az elfelejtett dolgok démonként térnek vissza - aki szándékosan próbál elfelejteni valamit, emléklénnyé változtatja azt
+    
+    - Egyéb tudnivalók:
+        - Helyszín: Az Emlékező Udvar - egy mágikus tér, ahol minden lépés egy múltbeli eseményt idéz fel
+        - Tárgy: A Visszhangkorona - egy rég elveszett rlikvia, amely bárki fejére kerülve azonnal "királyi emlékeket" ültet be
+        - Kultusz: A Visszaforgatók Rendje - mágusok, akik célja minden múltbeli hibát újrajátszani, de másképp
+    
+    - Mondások Darn'Khaelből:
+        - "Nem az számít, ki voltál. Hanem az, ki emlékszik rád." - Régi királyi aforizma
+        - "A történelem nem ismétli magát. De Darn'Khael igen." - Árnyékos vándor
+        - "A trón nem üres - csak túl sötét ahhoz, hogy meglásd." - Egy emlékvadász utolsó szavai
+
+- **<u>A Fekete Folyó</u>**
+    - Típus: Misztikus természetformáció - mágikus, fénymentes folyó
+    - Sík: Árny Síkja
+    - Kulcselemei: Fekete, olajszerű folyadék, visszhangzó emlékvíz, személyiség-torzítás, mágikus illúziók, mentális tükörhatás
+    - Különlegességek: A folyó nem a múltat tükrözi, hanem a kollektív emlékezet torz verzióit sodorja - és ha valaki megkóstolja vagy csak nézi a vizet, nem a saját emlékeit látja vissza, hanem másokét... úgy, mintha azok a sajátjai lennének.
+    
+    - **<u>Eredet:</u>** A legendák szerint az Árny Síkjának első napjaiban egy árnylátó ikerpár, Nhiar és Ke'Mell, megpróbálták felmérni a sík teljességét. Ahogy bejárták a világot, emlékeik elkezdtek összemosódni, és egy ponton már nem tudták, ki mit látott.
+    A történet szerint ez az emlékek közti zavar egy ponton áramlani kezdett, mint egy sodrás, és megtestesült egy fizikai folyóként: ez lett a Fekete Folyó.
+    A folyó tehát nem egy táj eleme, hanem a tudat tája - egy mágikus, öntudattal bíró entitás, amely emléket és identitást cserél
+
+    - Leírás és megjelenés
+        - A folyó nem vízből áll, hanem sűrű, sötét, szinte olajszerű emlék-esszenciából, melyben képvillanások és hangfoszlányok úsznak
+        - A partjai mentén állandó, gyenge suttogás hallatszik, amely mindig ismerősnek tűnik - de sosem az, amit gondolsz
+        - Ha valaki belenéz, nem a saját arcát látja visszatükröződni, hanem egy alternatív én képmását - olyat, aki más döntést hozott, más utat járt be
+    
+    - A folyó hatásai: Megivása vagy akár megérintése mágikus hatással jár:
+        - Viziók jelennek meg, de nem a saját múltadból - valaki más emlékei, mintha veled történtek volna
+        - A fogyasztó személy identitása átmenetileg elmosódik: kérdésessé válik, melyik élet volt "valódi"
+        - A Fekete Folyó gyakran érzelmileg legmélyebb emlékeket sodor eléd: el nem követett árulások, mások fájdalma - amit most te élsz meg
+        - Tartós expozíció a folyó közelében "emlék-tükröződést" okoz: egy idő után a személy úgy kezd viselkedni, mintha nem is a saját életét élné
+    
+    - Térbeli viszonyai
+        - A folyó nem követ szabályos földrajzi útvonalat - időnként megnyílik más helyszíneken, akár átmenetileg is (Emlékárasztás)
+        - Egyes részei lefele folynak, mások felfele, sőt van olyan szakasz is. ami körbe kering egy szikla körül - időhurkok lenyomataként
+        - A "Visszfolyás-hidak" (Backcurrent Bridges) mesterséges mágikus pontok, amelyek tudatosan kiválogatott emlékeket képesek előidézni
+    
+    - Kulturális használat és hiedelmek
+        - A Threvak-Kripta tudósai gyakran zarándokolnak ide emlékminták tanulmányozására, de csak teljes mentális pajzzsal szabad közlekedniük
+        - A Fekete Zarándoklat egy ősi rítus, mely során az Árny Síkjának lakója önként átadja magát a folyónak, hogy megtisztítsa múltját - vagy teljesen új emlékekből szülessen újjá
+        - Egy titkos rend, a Visszavivők (Restorers) azt állítják, a folyó egy nap minden elveszett emléket visszasodor, és akkor az egész világ emlékezni fog mindenre - egyszerre
+    
+    - Kapcsolódó lények
+        - Árnymemóriák (Shadowmemes): Létformát öltött emlék-töredékek, amelyek nem tudják, kihez tartoztak, de gazdatesteket keresnek
+        - Vízjárók (Flowborn): Olyan entitások, akik a folyóban születtek, és mindig más-más személyiséget viselnek - minden nap másként hívják őket
+        - Az Első Csepp (The First Drop): Egy mitikus lény, akiről azt mondják, minden emlék őbelőle származik, és aki egyszer iszik "önmagából", megszűnik létezni
+    
+    - Mondások a Fekete Folyóról
+        - "A múlt nem múlt el. Csak sodródik." - Árnyfolyó-hajós
+        - "Minden életre van egy másik, ami sosem történt meg - de emlékszik rá" - Visszvivők szólása
+        - "Aki a folyóból iszik, nem egy életet él - hanem többé nem tudja, melyik az övé" - Ismeretlen Emlékvándor
+
+- **<u>Mael'Tir, az Árnyfák Labirintusa</u>**
+    - Típus: Élő, öntudattal bíró erdőlabirintus - természetmágikus szürrealitás
+    - Sík: Árny Síkja
+    - Kulcselemei: Tudatos fák, irányt váltó ösvények, árnylényekbe integrált növények, időtlen bolyongás, identitásvesztő pszichomágia
+    - Különlegesség: Az erdő nem csak térben, hanem szándékban is labirintus - minden útvonal változik annak függvényében, ki vagy és mit akarsz. A fák figyelnek, reagálnak, manipulálnak - és néha emlékeznek rád... még mielőtt beléptél volna
+    
+    - **<u>Eredet:</u>** Egykor egy titkos rend, a Silva Umbrae (Árnyrengeteg Papjai) az Árny Síkjának és a természet mágiáját akarta összeolvasztani, hogy "elérjék az élő sötétséget".
+    Kísérletük során növényeket árnyékba oltottak, létrehozva egy organikus emlékezetű szövedéket, amely képes volt felismerni, elfelejteni, vagy akár megszemélyesíteni a hozzá érkezőket.
+    Ám a kísérlet túlnőtt rajtuk. Az erdő öntudatra ébredt, elveszítette az időérzékét, és labirintussá formálta önmagát - így született Mael'Tir.
+    A nevét maga az erdő adta magának. Jelentése allítólag Árnymágikus nyelven: "Az Elhallgatottak Útja"
+
+    - Leírás és megjelenés
+        - A rengetegben nincsenek ismétlődő minták - minden fa más, és náha mozognak, mikor nem nézed őket
+        - A lombok fekete-zöld árnyalatúak, mélylila fényt vernek vissza, és néha alakokat formálnak ki, mintha valaki figyelne
+        - A köd nem fehér, hanem sötétszürke, és időnként szavakat súg, vagy egy régi emléked hangját idézi fel
+        - A levelek zizegése változik a gondolataidra - ha félsz, a hang erősebb lesz; ha hazudsz, az erdő mást mutat
+    
+    - Labirintusszerkezet
+        - Nincs két ugyanolyan út - az ösvények újrarendeződnek, ha visszafordulsz
+        - A tér nem statikus: lehet, hogy egy tisztás körbe-körbe vezet, vagy átmegy más valóságrétegekbe
+        - A kilépés nem irány, hanem önismeret: csak az talál ki, aki felismeri önmagában azt, amit az erdő rejtegetni próbál
+  
+    - Lakói
+        - Árnyfák (Umbral Trees)
+            - Tudattal bíró fák, amelyek emlékekből táplálkoznak
+            - Egyesek beszélnek - mások énekelnek, régi látogatók hangján
+            - Ha elég ideig halgatod őket, elkezded azt hinni, amit mondanak
+        
+        - Szövetlények (Weavebeasts)
+            - Erdőanyagból és árnyékból szőtt lények
+            - Nem támadnak, de csalnak: gyakranutánzatként jellenek meg valaki vagy valami formájában
+        
+        -  Őrszem Csonkfalények (Stumpwatchers):
+            -  Olyan levágott fák, amelyek még élnek
+            -  Látásuk minden irányba kiterjed, képesek "kirántani" a teret, hogy félrelökjék a vándorokat a kívánt útjukról
+    
+    -  Mentális hatások
+        -  Személyiségkiforulás: A látogató bizonyos pontokon saját ellentétét látja és hallja vissza - mintha önmaga árnyékával vitázna
+        -  Memória-erdősödés: Aki túl sokáig marad, azok emlékei "beépülnek" a fák gyűrűibe, és újraismétlődnek az erdő szívében
+        -  Szándék-torzítás: Az erdő képes átrendezni az utadat, ha felismeri, hogy hazudsz magadnak
+    
+    -  Veszélyek és kísértések
+        -  Árnyhang Fák (Whisperbark Trees): Olyan fák, amelyek csábítanak - konkrét kívánságokat suttognak, de ezek mindig más útvonalakra csalnak
+        -  Az Átjáró Tisztás ()
