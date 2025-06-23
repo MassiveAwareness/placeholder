@@ -624,4 +624,16 @@
     
     -  Veszélyek és kísértések
         -  Árnyhang Fák (Whisperbark Trees): Olyan fák, amelyek csábítanak - konkrét kívánságokat suttognak, de ezek mindig más útvonalakra csalnak
-        -  Az Átjáró Tisztás ()
+        -  Az Átjáró Tisztás (Cleaning of Collapse): Egy hely, ahol mindenki azt látja, mait leginkább szeretne - de sosem tudja elérni
+        -  Az Üresség Lenyomata: A labirintus belseje egy fekete üreget rejteget, amelyről egyesek azt hiszik, hogy az Ősűr Síkjának egy repedése - egy utolsó csapda
+    
+    -  Kulturális jelentőség és mítoszok
+        -  A Threvak-Kriptában sokak szerint az erdő maga is emléklény, amely nem emlékeket gyűjt, hanem személyiségeket alkot újra
+        -  A Visszajárók Rendje (Order of Returnless) gyakran zarándokol ide - tagjai mind eltűntek egyszer Mael'Tir-ban, majd más személyiségként tértek vissza
+        -  Egyes elméletek szerint az Árny Síkjának szíve maga Mael'Tir - nem hely, hanem identitásmátrix, amely az egész sík önismereti tükre
+    
+    -  Mondások Mael'Tirból
+        -  "Az erdő nem kérdezi, ki vagy. Csak emlékeztet, ki nem voltál." - Ányjáró mondás
+        -  "Ha megtaláltad az utat, az még nem jelenti, hogy a tiéd." - Labirintus-törvény
+        -  "Az Árnyfák csak akkor suttognak, ha te nem mersz beszélni." - Silva Umbrae liturgia
+
