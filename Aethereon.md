@@ -210,7 +210,7 @@
         - Árny Síkján: Füstből és hamuból áll, mindig mögötted áll, ha megfordulsz - eltűnik
         - Űr Síkján: Csak a láng zaja hallatszik - nincs torony, csak az ígéret, hogy valaha volt
     
-    - Hozzáférhetőség és veszélyek:
+    - Hozzáférhetőség és veszélyek
         - Skarnor nem hív, hanem válaszol - csak akkor jelenik meg, ha egy kérdés elég erős ahhoz, hogy megrepessze a síkok közti "falat"
         - A belépéshez tűzáldozat kell - nem anyagi, hanem személyes: egy emlék, érzés vagy elhatározás, amelyet örökre elhagysz
         - A torony vándorol, és néha elhagy egy síkot anélkül, hogy visszatérne egy teljes korszakon át
@@ -222,30 +222,31 @@
     - Különlegességek: Lávaáramlatokra épült, állandóan izzó fény, párbajkultúra
     - Fő hírneve: Harci arénák, mágikus fegyverkészítés, legendás fémtűz-rítusok
     - **<u>Eredet:</u>** A hagyomány szerint Cindrel-Arath nem emberi kéz munkája. A város a tűz lényeinek törése után emelkedett ki a mélyből - amikor a sík egyik ősi lávaáram, a Karnir-ág (Vein of Karnir) "meghasadt", és abból szikrázó anyag bugyogott elő, amely se nem kő, se nem fém. Ebből az anyagból nőttek ki az első főépületek, mint önálló szerveződések.
-    - Külső és szerkezet:
+
+    - Külső és szerkezet
         - Az egész város lávacsatornákra és fémtartókra épült - a házak alsó szintje üvegezett lávákra néz
         - Az épületek vörös és arany fényben izzanak, mert az Arathium nevű fémből készültek, amely képes elnyelni a mágikus lángokat
         - A város szíve a Kovácsláng (Heartforge), egy örökké égő tűzkatarakta, amely mágikus fegyvereket kovácsol tulajdonosának lelkéből
     
-    - Kultúra és életforma:
+    - Kultúra és életforma
         - A cindreliek a tűz által való méltóságban hisznek: minden harcot és döntést párbajban rendeznek
         - A város harci arénái közül leghíresebb a Tharz-Khall, ahol a síkok közti viadalokat rendezik meg
         - A mágikus kovácsok, az úgynevezett <b>Tűzszívűek (Flamebound)</b>, képesek olyan fegyvereket kovácsolni, amik "emlékeznek" a tulajdonosaik korábbi csatáikra
         - Az ifjak beavatása egy Lávatánccal történik - életveszélyes rítus, ahol a lávacsatornák felett kell "táncolni", miközben mágikus erőt próbálnak idézni
     
-    - Fontosabb helyek:
+    - Fontosabb helyek
         - Tharz-Khall Aréna - Síkok közti harci szentély, mágikusan védett nézőtérrel és változó környezettel
         - Kovácsláng (Heartforge) - A város szíve; itt készülnek a legnagyobb erejű fegyverek, lelki alámerítéssel
         - Izsarn-körzet - A lávafolyók fölé épült nemesi negyed, ahol a tűz varázslói laknak
         - Slaggmar Mélységei - Titkos kazamaták és olvasztókamrák a város alatt, a pletykák szerint egy "szunnyadó lávalény" is alszik itt
         - Rendkör - A pyrologisták helyi kisrendi cellája - itt gyűjtenek hőstörténeteket Skarnor nevében
     
-    - Hatalmi viszonyok:
+    - Hatalmi viszonyok
         - A várost egy Arathbajnok vezeti - a legutolsó Lángpróba győztese
         - Az arénák főbírája egy semleges testület, az úgynevezett Bíbor Szemek Tanácsa, akik látják a küzdelmek "valóságát", nem csak formáját
         - A Pyrologisták nem avatkoznak bele a helyi hatalomba, de figyelnek - Skarnor megjelenési mintáit itt gyakran kutatják
     
-    - Mondás a városról:
+    - Mondás a városról
         - "Aki Cindrel-Arathban született, nem tud halni csendben" - Régi tűznépi mondás
     
 - <u>A Perzselő Fennsík</u>
@@ -256,7 +257,7 @@
     - **<u>Eredet:</u>** A legenda szerint a Perzselő Fennsík nem mindig létezett. A hely egykor Lurra-Na volt - egy békés, vulkanikus fennsík, ahol a hőmágusok évszázadokon át tanulmányozták a tűz természetét. Azonban egy nap a Hétlényű Árny, egy ismeretlen hatalmú entitás, megkísérelte megidézni a Tiszta Lángot - az ősi és nyers tűzlényt, aki a Tűz Síkjának magját őrzi.
     A rítus félresiklott. A Láng kiszabadult, de test nélkül, csupán lélekként, csak égető akartként - és az egész fennsíkot lángba borította, de nem pusztította el, hanem "átégette a valóságot". Azóta a Fennsík nem biztos tér, hanem egy izzó kivetülés, ahol a fizika, az idő és a látás becsapható.
     
-    - Környezeti jellemzők:
+    - Környezeti jellemzők
         - A Fennsík felszíne üvegesre égett sziklapad, ahol a forróság úgy hullámzik, mint a víz
         - A levegő valóságszálakat tép - néha látni magadat sétálni előre, mielőtt megtennéd
         - Egyes részein tüzes kivetülések kelnek életre - "lánglények", amelyek nem élnek, csak emlékeznek
@@ -272,7 +273,7 @@
         - Felületén égetett írás olvasható, de minden olvasó mást lát rajta
         - Időnként hangokat bocsát ki *(Segélykiáltások? Dalok? Jövőbeli beszédek?)*
     
-    - Használat és cél:
+    - Használat és cél
         - A Pyrologisták gyakran küldenek ide próbamágusokat, hogy "megtörjék vagy megértsék a lángot"
         - Egyes frakciók szerint a Fennsík "sebfelület" a sík szövetén - ezért az Űr Sík lényei néha megpróbálnak behatolni ezen keresztül
         - Léteznek vándorok, akik ide jönnek önként megtébolyodni - mert szerintük csak a Fennsíkon lehet valóban szembenézni az igazsággal
@@ -287,11 +288,11 @@
     - **<u>Eredet:</u>** A mítosz szerint Baer-Innur maga is egy entitás volt - egy ősi lánglény, aki belefáradt az örök pusztításba, és úgy döntött, hogy teremteni akar. Lemászott a Forróköves Hegység (Moltenstone Range) gyomrába, ott pedig saját szívének lángjából meggyújtotta az Öröklángot (Eternal Flame) - egy soha ki nem alvó mágikus tűzforrást, amely nem éget, hanem formál.  
     A legenda szerint azóta is itt lüktet ez a láng, és minden kovács, aki hozzáfér, túlvilági tisztánlátással és erővel kovácsolhat fegyvert, páncélt vagy akár mágiát - hiszen a Kohóban a fém emlékezik, és a tűz lát.
     
-    - Szerkezet és atmoszféra:
+    - Szerkezet és atmoszféra
         - A Kohó egy hatalmas vulkáni kráter, félig ősi kézműves munka. Az oszlopok elementál testekből lettek megformálva
         - A központban áll az Örökláng Medencéje - egy aranyszínű, örvénylő tűztó, mely semmit sem éget el, csak feltár
     
-    - Lakói - A Kohó Fiai (Sons of the Forge):
+    - Lakói - A Kohó Fiai (Sons of the Forge)
         - Zárt, vallásos testvériség, akik "a Láng Tanát" követik
         - Tagjaik nemcsak kovácsok, hanem tűzmágusok, emléktárolók és suttogók - a fegyverekbe történeteket is kovácsolnak
         - Vezetőjük: Korr-Theyn, a Füstarcú Mester (Smokefaced Master), aki állítólag már nem teljesen halandó
@@ -302,12 +303,12 @@
         - Éjszín Pengék - amelyek nem a testet, hanem a szándékot sebesítik
         - Ritkán: Egyedi alkotások születnek, amiknek lelkül van, és választják birtokosukat
     
-    - Hozzáférés és jelentőség:
+    - Hozzáférés és jelentőség
         - A Kohóhoz csak az arra méltón juthatnak el - nem csak fizikai kapuk, de próbatételek is védik
         - A különböző síkok frakciói versengenek a Kohóban kovácsolt tárgyakért - gyakori a diplomáciai és mágikus versengés
         - Vannak, akik szerint a Kohó lángja képes lenne újraindítáani egy elpusztult síkot - ezért potenciális célpont a háborúban is
     
-    - Hit és szimbolika:
+    - Hit és szimbolika
         - "A Láng éget, ha kell. De a Láng tanít, ha hagyod." - A Láng Tanában egyik alapelve
         - "A Baer-Innurban kovácsolt penge nem öl. Igazságot szolgáltat." - Korr-Theyn, Füstarcú Mester
     
@@ -320,7 +321,7 @@
     A Lángoló Lépcsőket egy mára kihalt vallási rend, az Intherai Zarándokok (Pilgrims of Inthera) vájták a hegy gyomrába, követve a láng suttogását. A szentélyrendszer építése során a rend állítólag nem is beszélt egymással - csak hallgatták a Tűz Nyelvét, és vésték a falakat, mintha diktálna nekik  
     A lépcsők végül élő térképpé váltak - a lávaárkok, barlangjáratok és vulkanikus terek úgy kanyarognak, hogy próféciákat és mágiarúnákat alkotnak a geometriájukkal
     
-    - A szentélyrendszer:
+    - A szentélyrendszer
         - A lépcsők spirálisan haladnak lefelé a vulkán belsejébe, mindegyik fok más anyagból készült: obszidián, vulkanikus üveg, izzó réz, Arathnium
         - Minden szinten található egy-egy "Lángszoba", ahol a tűz suttog - valóban szavakat formál. Egyesek szerint minden látogató mást hall.
         - A legalsó kamrát "A Forrás Torkaként" (The Source Throat) ismerik - itt a láng énekeli a jövőt, állítólag olyan nyelven, amit minden élőlény ért, de senki sem képes leírni
@@ -330,12 +331,12 @@
         - A Tűz Nyelve egyszerre beszél minden sík minden nyelvén - és mégis, a hallgató csak a saját belső igazságát hallja
         - Vannak, akik úgy hiszik, hogy a Tűz Nyelve őrült, vagy legalábbis nem-lineáris időérzékelésben létezik
     
-    - Kultusz és utazók:
+    - Kultusz és utazók
         - A mai napig vannak titkos rendek, akik ide zarándokoltak, hogy lángba mártott jóslatot kapjanak
         - Az utat a Lángpróbák (Trials of Flames) őrzik: forró illúziók, égető bűntudat, valóságtorzítás
         - Aki eléri a Forrás Torkát, azt megégeti a tudás - fizikailag lehetetlen épen visszatérni, de megvilágosodva lehet
     
-    - Mondások a Lépcsőkről:
+    - Mondások a Lépcsőkről
         - "Aki a Lángot hallja, már sosem hallgat többé!" - Régi Intherai mondás
         - "Nem a tűz beszél. Te válaszolsz." - Névtelen zarándok emléktáblája a 17. fokon
     
@@ -364,12 +365,12 @@
         - A rend tagjai nem saját névvel, hanem égési jelekkel azonosítják magukat
         - Lángállatokat is képesek idézni: füstmadarakat, parászsiklókat, egyéb lánglényeket
     
-    - Szent rituálék:
+    - Szent rituálék
         - Megtisztulás Napja (Day of Asheen Feet): A hívek mezítláb végigjárják az Örökláng-ösvényt
         - A Lángszemlélet (Vision of Flame): Prófétikus jövendölés tűzbe meredve, gyakran önkívületi állapotban
         - A Hallgatás Máglyája (Bonfire of Silence): A név- és személyiségégetés rítusa, amellyel egy új lángszolgáló születik
     
-    Mondások Veridalból:
+    Mondások Veridalból
         - "A láng nem kérdez, de felel" - Verin-Kael
         - "Ha nem égsz, nem is vagy." - Lángszívű mondás
 
@@ -394,21 +395,21 @@
         - A város egy Hétkaréjú Tanács (Council of Seven Shadows) által irányított arisztokrácia, de a tényleges hatalom információban, zsarolásban és illúziókban rejlik
         - Egyetlen közös szabályuk: "Aki nyíltan öl, trónról bukik."
     
-    - Társadalom és mindennapok:
+    - Társadalom és mindennapok
         - A lakók udvari kódok és árny-etikett szerint élnek: az igazság burkolt formában jelenik meg, a mosoly gyakran fenyegetés
         - Az Árnyügynökök (Shadebound) minden Ház titkos kémei - ők árnyékba simulva képesek utazni, suttogásokban beszélni
         - A gyerekeket árnyékreflexiókkal tanítják - tükörképeik mondják ki a valós választ, miközben ők hazudnak
     
-    - Konfliktus és veszélyek:
+    - Konfliktus és veszélyek
         - Vel'Tharien hatalmát sokan megkérdőjelezik a Sík más részein - vannak szakadár klánok, Épjporos Tanács (Council of Ashen Veil), és egy névtelen árnyszektus, akik szerint a szürkület nem elég - a teljes sötétség az egyetlen igaz út
         - A Tükörcsarnokok (Halls of Reflection) mélyén élő lények torz árnyékként visszacsúszott emlékek - ők az Árnyjártók, akik önmaguk elveszett verzióiból formálódtak
     
-    - Összegző motívumok:
+    - Összegző motívumok
         - Színpaletta: ibolyaszürke, mélyfekete, ezüst, kékes árnyékok
         - Hangulat: intrika, kimért fenyegetés, intellektuális paranoia
         - Archeotípus: "A trón mögött álló árny", "a maszkos manipulátor", "az udvarmseter, aki mindent tud"
     
-    - Mondások Vel'Tharienből:
+    - Mondások Vel'Tharienből
         - "Amit teljesen világos, az már halott." - Árnyékfűző tanítás
         - "A hatalom suttog, és a sikoly csak kudarc." - Dusklord közmondás
         - "Nem attól félnek, amit mondasz. Hanem attól, amit hallani hagysz." - Ismeretlen kémtanító
@@ -424,28 +425,70 @@
     Az első emlékgyűjtők - egy ősi, név nélküli nekromanta-rend - meghallották a hegy suttogását, és leszálltak gyomrába, hogy megtanulják: a halál nem vég, hanem archívum.  
     Ezt a helyet nevezték el végül Threvak-Kriptának - az Emlékaratás Városának (City of Memory-Harvesters).
     
-    - Leírás és megjelenés:
+    - Leírás és megjelenés
         - A város hatalmas csarnokokból, kőbe vájt alagutakból és orgonaszerű sírokból áll, amelyek egy lépcsőzetesen mélyülő spirálba rendeződtek
         - A mennyezetekről sötét fluidumban lebegő emlék-gömbök (Voxglobes) lógnak, amelyek suttogó szavakat, képeket és illatokat sugároznak - a halottak töredezett tudatfoszlányai
         - A várost állandó tompa rezgés tölti be - mintha ezer hang emlékezne egyszerre
     
-    - Érdekességek:
+    - Érdekességek
         - A Kriptában élők nem kommunikálnak hangosan. Ehelyett emléklenyomatokat cserélnek, melyek közvetlenül a tudatba vetülnek (mágikus etikett szükséges a fogadásukhoz)
         - Létezik egy "Emlékpiac" (Mnemosyne Bazaar), ahol az emberek élők és holtak emlékeit árulják - fiatalkori álmok, utolsó csókok, gyerekkori félelmek
         - Az itt kefejlesztett technikák révén mágikus hatalom konvertálható emlékké, és fordítva
     
-    - Hatalom és rend:
+    - Hatalom és rend
         - A várost a Tizenkét Kápolna (Twelve Chapels) tudóskonzorciuma vezeti - mindegyik más emléktípussal foglalkozik:
             - pl. Az Árulások Kápolnája, A Családi Kötelékek Tornya, A Halálpillanatok Szentélye
         - A vezető testület neve: A Megmaradók Tanácsa (Council of Retained), akik saját haláluk után is félig tudatos emlék-formákban élnek tovább, és időnként újra tanácskoznak
     
-    - Egyéb tudnivalók:
+    - Egyéb tudnivalók
         - Vándorló kriptagyűjtők (Cryptwalkers) járják a világok, és a frissen halottak fejéből kiemelhető emlékeket keresnek - gyakran fizetnek élőknek, hogy haláluk után bizonyos emlékeikre szerződést kössenek
         - Léteznek "emlékszellemek" (Remnants), akik túl sok emlékhez jutottak, és személyiség-töredékekből álló mániás entitásokká váltak
         - Az árnyék-lélektan mesterei képesek az emléklátás (Memnosight) technikájával a valóság bizonyos aspektusait úgy értelmezni, ahogyan mások emlékeznének rá - egy torzított igazságokat tudnak létrehozni
     
-    - Velős mondások Threvakból:
+    - mondások Threvakból
         - "Az vagym amit elfelejtenek rólad." - Mnemonikus szólás
         - "Az emlék nem hazudik. Csak néha másképp emlékezik." - Emlékgyűjtő tanítás
         - "A halál kapu. A kérdés: mire emlékszel, amikor belépsz?" - Threvaki beavatási kérdés
 
+- **<u>Csillagtalan Mélység</u>**
+    - Típus: Létezésen túli zóna, fénymentes ekszasztikus határtérség
+    - Sík: Árny Síkja
+    - Kulcselemei: Végtelen sötétség, akaratot nyert árnyékok, fényellenes gravitáció, torz emlékvisszahngok, metális torzulás
+    - Különlegességek: A világon egyedülálló térség, ahol a fény teljesen hiányzik - nem csak fizikailag, hanem ontológiailag is. Az itt élő árnyékok nem valakinek a vetületei, hanem önálló lények, akik emlékeznek arra, hogy valaha valakihez tartoztak.
+ 
+    - **<u>Eredet:</u>** A Csillagtalan Mélység nem volt mindig külön térség - egykor része volt a normál Árny Síknak. Egy ősi kor mágikus kísérletében, amelynek célja a fény végső elszigetelése volt, egy szövetség létrehozott egy tér-idő csomót: A Nullfáklyát (The ulltorch).
+    Amikor ez meggyulladt, nem fényt adott, hanem elvonta a világosságot a sík minden pontjáról - és ahol a legsűrűbben összeomlott a fény, ott keletkezett a Mélység.
+    Az ott tartózkodó árnyékok - többnyire ártalmatlan tükröződések, pszichikus visszhangok - akaratra és öntudatra ébredtek, mikor többé már nem volt mit tükrözniük.
+    Egy "ős-szakadásként" (First Severing) emlegetett eseményben leváltak eredetükről, és elszabadult árnyékként kezdtek létezni.
+
+    - Leírás és megjelenés
+        - A Csillagtalan Mélység nem látható - még mágikus látással sem. Minden érzékszerv elnyomódik vagy eltorzul benne. A létezés tapinthatóvá válik, de nem értelmezhető.
+        - Nincsenek falak, nincs horizont. A tér absztrakt, sokszor "behajlik önmagába" vagy lejt a semmibe.
+        - A zaj nem hanghullámként, hanem tudati késésként érzékelhető: gondolataidat gyakran másként hallod vissza, mint ahogy kimondtad őket
+        - A mozgás itt nem irányhoz, hanem szándékhoz kötött. Ha céltalanul mész, elfordulsz önmagadtól.
+
+    - Lakói: Az Elszakadtak (The Severed)
+        - Az Elszakadtak olyan árnyak, akiknek már nincs eredeti tesük, de emlékeznek rá, milyen volt valakihez tartozni
+        - Változatos formákban jelennek meg: hosszú, elnyúlt sziluettek, töredezett mozdulatok, hullámzó vonalak, melyek időnként "visszajátszanak" emberi gesztusokat
+        - Egyes Elszakadtak barátságosak - mások bosszút akarnak állni azon, aki elfelejtette őket, vagy rá akarják erőltetni magukat egy új testre
+        - Létezik egy különleges kaszt: a Sötétcsend Vándorai (Walkers of the Quiet Dark), akik képesekkommunikálni e lényekkel, és értelmezni az árny-élettörténeteket
+    
+    - Hatások az élőkre
+        - Minden belépő lassan elveszíti az identitását, ahogy árnyéka leválik róla, és saját életre kel
+        - A személyes múlt is megkérdőjeleződik: emlékeid új értelmet nyernek, visszhangzanak, és néha egy másik emlékként térnek vissza
+        - Egyes mágusok az önárnyékkal való párbeszédet (a reflektív dialógust) gyakorolják itt - de sokan megőrülnek tőle
+    
+    - Veszélyek és mágia
+        - A Fényűzők (Lightbringers) nevű máguscsoport próbált mesterséges világosságot behozni ide, de a fény ott "megszűnik létezni", elvész, vagy eltorzul személyiséggé - az egyik lámpásból egy tudatféreg keletkezett
+        - A térség alkalmas nagy erejű mágiák végrehajtására, mivel a téridő nem stabil - de a szándékés emlékréteg alapján működik minden
+        - Lértejött egy mágikus technika: széndéklenyomat-árnyvetítés (Intent-Shadow Projection) - mely során valaki saját jövőbeli tetteinek árnyképét vetíti előre a Mélységbe
+    
+    - Kulturális jelentőség
+        - A Threvak-Kriptából évente árnylátók zarándokolnak a Mélység peremére, hogy "visszavonjanak elfelejtett emlékeket"
+        - Az Árny Síkjaának legszélsőségesebb elméleti iskolái (mint pl. az Én-nélküliek Kódexe, Codex of Unselves) innen származnak
+        - Néhány elmélet szerint a Csillagtalan Mélység maga az Ősűr Síkjának egy "árnyék-rezonanciája", és egyszer majd átszakad a határ
+    
+    - Mondások a Mélységből
+        - "Aki áenyékát elvesztette, már nem fél a tűztől." - Árnyjáró bölcsesség
+        - "Ott lent nem vagy te, csak az a te, aki nem mertél lenni." - Sötétcsend Vándora
+        - "A Mélység nem néma. Csak nem veled beszél." - Threvaki emlékpap
