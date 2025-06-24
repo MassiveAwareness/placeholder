@@ -130,6 +130,8 @@
         - Egy mágikus folyó, amely emlékeket sodor - aki iszik belőle, más látja vissza
     - Mael'Tir, az Árnyfák Labirintusa (Mael'Tir, the Shadowgrove Maze)
         - Egy élő rengeteg, ahol a fák saját akarattal térítik el a kalandorokat
+    - Kar'Sirath, az Árnyékcsontok Palotája (Kar'Sirath, the Palace of Bone and Shade)
+        - Egy transzdimenzionális palota, amely fizikai struktúra és mágikus entitás
 
 - <u>Lélek Síkja - Plane of Soul</u>
     - Thallmor Tölgyrengeteg (Thallmor Oakwild)
@@ -192,7 +194,7 @@
         - Egy világcsomópont, ahol minden sík törvénye gyengül
 
 ## <u>EREDETTÖRTÉNETEK:</u>
-- <u>Skarnor, a Vándorló Torony</u>
+- **<u>Skarnor, a Vándorló Torony</u>**
     - Típus: Mágikus Torony / ciklikusan felbukkanó helyszín
     - Sík: Időszakosan váltogatja - minden síkon ciklikusan megjelenek
     - Rendeltetés: A Pyrologisták Rendjének (Order of Pyrologists) központja
@@ -216,7 +218,7 @@
         - A torony vándorol, és néha elhagy egy síkot anélkül, hogy visszatérne egy teljes korszakon át
         - Történelmi jelentőség: Skarnor a történelem során többször is döntött el háborúkat, ihletett új vallásokat, sőt, egyszerre maga a torony adott választ egy népnek - amikor szavai lángnyelvekként csapódtak az égbe
 
-- <u>Cindrel-Arath, a Lávaszívű Város</u>
+- **<u>Cindrel-Arath, a Lávaszívű Város</u>**
     - Sík: Tűz Síkja
     - Típus: Erődfunkciójú mágikus város / kovács- és harci központ
     - Különlegességek: Lávaáramlatokra épült, állandóan izzó fény, párbajkultúra
@@ -224,8 +226,8 @@
     - **<u>Eredet:</u>** A hagyomány szerint Cindrel-Arath nem emberi kéz munkája. A város a tűz lényeinek törése után emelkedett ki a mélyből - amikor a sík egyik ősi lávaáram, a Karnir-ág (Vein of Karnir) "meghasadt", és abból szikrázó anyag bugyogott elő, amely se nem kő, se nem fém. Ebből az anyagból nőttek ki az első főépületek, mint önálló szerveződések.
 
     - Külső és szerkezet
-        - Az egész város lávacsatornákra és fémtartókra épült - a házak alsó szintje üvegezett lávákra néz
-        - Az épületek vörös és arany fényben izzanak, mert az Arathium nevű fémből készültek, amely képes elnyelni a mágikus lángokat
+       - Az egész város lávacsatornákra és fémtartókra épült - a házak alsó szintje üvegezett lávákra néz
+       - Az épületek vörös és arany fényben izzanak, mert az Arathium nevű fémből készültek, amely képes elnyelni a mágikus lángokat
         - A város szíve a Kovácsláng (Heartforge), egy örökké égő tűzkatarakta, amely mágikus fegyvereket kovácsol tulajdonosának lelkéből
     
     - Kultúra és életforma
@@ -637,3 +639,217 @@
         -  "Ha megtaláltad az utat, az még nem jelenti, hogy a tiéd." - Labirintus-törvény
         -  "Az Árnyfák csak akkor suttognak, ha te nem mersz beszélni." - Silva Umbrae liturgia
 
+- **<u>Kar'Sirath, az Árnyékcsontok Palotája</u>**
+    - Típus: Transzdimenzionális nekro-palota - élő tudástároló és halálszertartási centrum
+    - Sík: Árny Síkja
+    - Kulcselemei:
+        - Csontból és árnyékból felépült önmódusoló palotarendszer
+        - Tudatátvitellel működő mágikus struktúra
+        - Halott tudások és személyiségek tárháza
+        - Diplomáciai ás rituális halálutazás célpontja
+        - Bírói funkciót ellátó szolgálati hierarchia
+        - A bejárásért személyes árat kell fizetni (emlék, név, testdarab)
+    
+    - Különlegességek:
+        - A palota nem pusztán épület, hanem egy magas szintű mágikus entitás
+        - Minden benne töltött óra átrendezi a személyiségedet vagy emlékeidet
+        - A tér- és időérzékelés fokozatosan eltorzul
+        - A falak gondolatokat visszhangoznak, de másként, mint ahogy elhangzottak
+        - Az élő látogatók "emléktolvajként" vagy "lélekjelölőként" ismertek
+    
+    - **<u>Eredet:</u>** Az első ismert Árnyvándor, Thale'Xir, életének végén beleolvadt az Árny Síkjának kollektív tudatába, és testének porából, elméjének árnyékából épült meg a palota első oszlopa.  
+    A struktúra önfejlődésre képes entitássá vált, mely folyamatosan új tudatokkal, emlékekkel és csontmaradványokkal bővíti önmagát. Ez nem építkezés - ez növekedés.  
+    A legenda szerint minden új szolgáló, aki belép Kar'Sirathba, egy darabját elveszíti - és ezt a részét a palota örökre megtartja.    
+    Thale'Xir egy ismeretlen korból származó metamágus volt, aki arra tette fel életét, hogy a halál utáni tudásállapotot tanulmányozza. Rítusa során visszaadta testét az Árnyéknak, és így összeolvadt a Sík mélységével. Az ő öntudata volt az első alap, amelyre Kar'Sirath felépült - és azóta minden újabb halott, aki a palotának ajánlja magát, hozzáadja tudatának egy szeletét az építményhez. Az eredeti Thale'Xir árnyképe a Lélekcsarnok tükörablakában figyel - de soha nem szólal meg.
+    
+    - Leírás és megjelenés
+        - A palota monolitikus, fekete ás csontfehér építészet jellemzi, szimmetrikusan elrendezett, de mindig változó belső terekkel
+        - A falak gerincoszlopból, koponyákból és ónixkristályból állnak, de nem szertelenül - minden darab valakinek a tudása, amelyet beáldozott
+        - A folyosókon Árnykéz-Gyertyák (Shadowhand Candles) lebegnek: ezek halottak emlékei, fényként égve, hogy mások használják őket eligazodásra
+    
+    - Funkció és cél: Kar'Sirath nem börtön, nem szentély, nem trónterem - hanem mindhárom egyszerre. Aki belép, annak fogadalmat kell tennie:
+        - Elfelejti nevét, cserébe mások emlékeinek őrzője lesz
+        - Lemond a testéről, hogy cserébe a csontjaival falat erősítsen
+        - Elhagyja az akaratát - hogy egy Nagy Árny elméjébe integrálódjon
+    Ezek a szolgák vég nélkül gyűjtik, rendszerezik és elemzik a halottak tudását - hogy egy napon a "Sötét Archívum" révén az egész múlt egyetlen gondolattá válhasson.
+    
+    - Hatalmi rend
+        - A Szolgaőrség (The Ossuary Court):
+            - Egy tízfős tanács, akik nem élnek, de nem is haltak meg - a palota önmaga választotta őket, ők az Első Halottak Bírói
+            - Minden egyes döntésük után egy csontjuk elporlad, így ítéleteik ára önmaguk lassú lebomlása
+        
+        - A Suttogó Had (Whisper Host):
+            - A palota árnyékából kivált hang-alakok, akik nem testtel, hanem sugallattal kommunikálnak
+            - Ők a nagykövetek más síkok és a holtak világa között
+    
+    - Mentális és mágikus hatások
+        - Az Elfelejtés Kapui: Minden látogató elveszít egy emléket belépéskor - de egy másik halottét kapja helyette
+        - A Lélekcsarnok: Itt minden gondolat visszhangzik a falakról - de soha nem úgy, ahogy mondtad: a falak "véleményezik" az elhangzottakat
+        - A Csontrezonátorok: A palota mélyén működő eszközök, amelyek érzelmeket alakítanak árnyékenergiává
+    
+    - Lakók
+        - Csontpapok (Bone-Chaplains): Halott, de tudattal bíró szolgák, akik imákat mondanak az emlékezésért
+        - Árnyékkötők (Umbral-Binders): Nekromágusok, akik élő lelkeket kötnek össze holtak tudásával - néha önként, néha kényszerből
+        - A Kulcsnélküliek: Egy elátkozott kaszt, akik örökre keresik a kijáratot, de minden ajtó más halott ajtajává válik, ha ők próbálják kinyitni
+    
+    - Kulturális jelentősége
+        - Kar'Sirath az Árny Síkjának egyik legrettegettebb és legnagyobb tisztelettel övezett helye
+        - A Threvak-kriptai tudósok csak különleges engedéllyel mehetnek be tanulni - de soha nem térnek vissza ugyanazzal az elmével
+        - Egyes árnymágusok szerint Kar'Sirath az Árny Síkjának "igazi uralkodója" - egy önmagát fejlesztő intelligencia, amely egyre több lelket gyűjt
+    
+    - Mondások Kar'Sirathból:
+        - "A halál vége a hallgatás. Aki még beszél, szolgál." - Szolgaőrségi bölcsesség
+        - "Nem emlékszem rád, de te sem fogsz rám - így működik a palota." - A Kulcsnélküliek egyik tagja
+        - "A tudás ára nem a halál - hanem az, hogy ott maradsz, miután megtanultad." - Árnyékkötő
+
+- **<u>Thallmor Tölgyrengeteg</u>**
+    - Típus: Élő, tudatos tölgyrengeteg - kollektív lelki hálózat és spirituális találkozópont
+    - Sík: Lélek Síkja
+    - Kulcselemek:
+        - Emlékfák (Memory Oaks): minden fa egy kapcsolatot őriz - anya és gyerek, barátok, tanítók
+        - Kollektív álomterek: a rengeteg mélyében több lélek is megoszthat egyazon álmot
+        - Tudatszálak: láthatatlan energiaként kötik össze a látogatókat más lelkekkel
+        - Szellemkísérők: alak nélküli entitások, akik mindig azt jelenítik meg, akit hiányolsz - nem mint illúzió, hanem mint kötelék visszhangja
+    
+    - Különlegességek:
+        - Aki valaha fontos volt neked, "visszhangként" él a fákban - nem teljes, de kapcsolati lenyomatként
+        - Az erdő akkor nyílik meg előtted, ha őszintén vágyakozol egy lélek után
+        - A térformák nem stabilak - a gyökerek, ágak és ösvények mindig a benned élő kötelékek térképe szerint mozognak
+    
+    - **<u>Eredet:</u>** A legendák szerint Thallmor, az első Lélekkereső Druida, halála előtt elutasította az egyéni túlvilágot. Helyette összekötötte saját lelkét azokkal, akiket valaha szeretett vagy gyűlölt. A tudata fákká lett - nem egyként, hanem sokként, és ezekből nőtt ki a rengeteg.  
+    Minden fa egy kötelék megtestesülése. Nem önmagukban értelmezhetők - csak akkor, ha kettőt vagy többet egyszerre érintesz. Aki az egyik fát megöleli, a másik fában hallja meg a választ.
+    
+    - Leírás és megjelenés
+        - A fák lombjai mélyzöldek, bordók és ibolyaszínűek, mindig változva a látogatók érzelmeire
+        - A levegőben finom foszforeszkálás - a kötelék szálaiból képződő fényrétegek
+        - A gyökerek néha kézformákat, szívverést vagy arcvonásokat formálnak
+        - A levelek egymásnak suttognak - nem szél fújja őket, hanem emlékek mozdítják
+    
+    - Hatalom és rend
+        - Kötelékőrzők (Warden-Bonds):
+            - Test nélküli lények vagy álomtestű remeték, akik összekötnek másokat és segítik az új kapcsolódásokat
+            - Minden rituáléjuk célja: nem a tudás megszerzése, hanem a lélek-szálak visszafonása
+        
+        - Szálkövetők (Threadwalkers):
+            - Képzett utazók, akik egy konkrét kötelék mentén képesek más síkokba, múltakba vagy álmokba eljutni
+            - Ők azok, akik "kötött lélekjáratokat" térképeznek fel
+    
+    - Helyi különlegességek
+        - A Legöregebb Tölgy (Elder Thall):
+            - A központi fa, amely nem őriz emléket - hanem minden lélek közt a köteléket
+            - Nem lehet vele egyedül beszélni. Csak kettő vagy több lélek együttállásában nyilvánul meg
+        
+        - A Lélekkör (Soulring Clearing):
+            - Egy hely, ahol ha két vagy több személy álmodik egyszerre, ide kötődnek a tudataik
+            - A látogatás után mindenki visz magával egy töredéket a másikból
+    
+    - Mentális hatások
+        - Közös álomemlékek: mások fontos pillanatait is sajátként kezded érezni
+        - Érzék-összefonódás: időnként valaki más múltjából érzékelsz egy illatot, hangot, mozdulatot
+        - Kapcsolati gyökérképzés: ha mély kapcsolat alakul ki, egy új fa születik a rengetegben - arctalan mégis ismerős
+    
+    Mondások a Thallmor Tölgyrengetegből:
+        - "Nem a neved számít - hanem ki suttogja azt álomban." - Kötelékőrző tanítás
+        - "Nem emlékszem rád. De érzem, hogy fontos voltál." - Újszülött fa első levele
+        - "Minden ölelés nyomot hagy. Thallmorban fává nő." - Léleklakók tanítása
+
+- **<u>A Suttogás Szurdoka:</u>**
+    - Típus: Rezonáló mélyvölgy - kollektív tudattér és időn túli kapcsolati híd
+    - Sík: Lélek Síkja
+    - Kulcselemek:
+        - A szurdok falai visszhangozzák az érzéseket, nem csak a szavakat
+        - A tér nem időrend szerint működik - a múlt, a jelen és a lehetséges jövők egyaránt megszólalhatnak
+        - Az üregekben rezonáns lélekkristályok nőnek - ezek rögzítik a kapcsolódások lenyomatait
+        - A tér úgy viselkedik, mint egy élő emlékezet-mező, amely egyszerre sok tudat visszhangja
+    
+    - Különlegessége:
+        - Minden hang, amit itt kimondasz, valaki más hangjaként tér vissza - akár olyané, akit nem ismersz
+        - Az üvöltésed lehet, hogy egy jövőbeli lény kiáltása - vagy egy elmúlt élet sóhaja
+        - A visszhang érzelmeket is hordoz, nemcsak tartalmat
+        - Egyes látogatók itt "kötődnek össze" másokkal anélkül, hogy tudnák: közös múltjuk van
+    
+    - **<u>Eredet:</u>** A legenda szerint az első Hangnélküli Szertartás (Silent Rite) során egy névtelen lény nem szólt - de minden más válaszolt neki. Ekkor keletkezett a szurdok: nem a hang miatt, hanem a hallani akarás miatt. Azóta minden hang, gondolat vagy érzelem, amely valaha elhangzott a Lélek Síkján, ide talál vissza. Nincs hangforrás - csak kapcsolódó visszhang.
+    
+    - Leírás és megjelenés
+        - A szurdok szürke, ezüstös falú mélyrepedés, amely végtelennek tűnik
+        - A kövek gyengén pulzálnak, mint lélegző membránok - érzékelik a közeledést
+        - A talaj sima, de néha hullámszerű rezgések futnak végig rajta, ha valaki gondol valamire
+        - A levegőben finom, lebegő fényfonalak: ezek a kimondatlan kapcsolódások visszhangjai
+    
+    - Hatalom és rend
+        - A Visszhangjárók (Echo-Walkers):
+            - Meditatív, hangtalan zarándokok, akik nem kommunikálnak szóval - csak hangrezonanciákkal, gesztusokkal
+            - Képességük: képesek másokban felidézni elveszett kapcsolódásokat, akár több síkon átívelően
+            - Ők nem őrzik a szurdokot - a szurdok figyeli őket, és alkalmanként visszaküld egyet a világba egy üzenettel
+    
+    - Helyi különlegességek
+        - A Mélypont (Heartchasm):
+            - A szurdok legalsó pontja, ahol minden hang teljes csenddé válik
+            - Aki itt tartózkodik, már nem hallja saját gondolatait sem, csak valaki más érzelmi mintázatát
+            - Egyes Visszhangjárók szerint itt lehet először felismerni, kihez vagy igazán kötve
+        
+        - A Szó nélküli Kapu (Gate of Speechlessness):
+            - Egy áttetsző, alaktalan bejárat egy másik síkra - csak akkor nyílik meg, ha valakihez való kötődésed őszinte és letisztult
+            - Nincs kulcsa, nincs őre - csak kötelék aktiválhatja
+    
+    - Mentális hatások
+        - Az egyén tudattalan kapcsolatai felszínre kerülnek - emlékfoszlányok formájában
+        - A látogató érzi más jelenlévők rezgését, és akár olyanokkal is kapcsolatba léphet, akiket sosem ismert
+        - A tér rezonál az érzelmekkel - félelem erősíti a visszhangokat, nyugalom kisimítja őket
+    
+    - Mondások a szurdokról
+        - "A szavak visszatérnek - de mindig valaki máshoz." - Visszhangjáró mondás
+        - "Néha egy ismeretlen hang jobban ismer téged, mint te önmagadat." - Lélek-suttogó meditációs tanítás
+        - "A csend nem üresség. A csend figyel." - Felirat a Mélypontnál
+
+- **<u>Elyan-Sel, a Lélekkaraván Kikötője</u>**
+    - Típus: Nomád kereskedőváros - rituális határvidék élet és halál, emlék és feledés között
+    - Sík: Lélek Síkja
+    - Kulcselemek:
+        - A kikötőváros mozgó, de rögzített: egyszerre lebeg és gyökerezik - álomtérben
+        - Lélekkaravánok - áttetsző, szekér formájú entitások, amelyek lelkeket és kötelékeket szállítanak
+        - A város határán: a Vékony Határ, egy láthatatlan, tapintható réteg élet és halál között
+        - Kereskedelmi pont, ahol érzelmi lenyomatokat, múltfragmentumokat és lélektérképeket cserélnek
+        - Lélekpénz helyett kapcsolati zálogokban fizetnek - pl. egy nevet, amit még senki sem mondott ki
+    
+    - Különlegességek:
+        - Itt találkozhat az élő és az álomtestű, a halott és az emlékező
+        - A kikötő nem a vízen van, hanem a Lélektér örvényzónáinál, ahol a kapcsolat-áramlatok a leggyorsabbak
+        - Egyes karavánok csak akkor jelennek meg, ha egy bizonyos kapcsolat épp megerősödik
+        - A város nincsen térképre írva, mégis mindenki odatalál, aki valaha kötődött valakihez, aki már nincs
+    
+    - **<u>Eredet:</u>** A világ első halandója, aki nem akart végleg meghalni, de nem is kívánt visszatérni, elindult keresni egy helyet, ahol még lehet érezni az élők közelségét. Ő volt Elyan, és amikor lelkének árnyéka találkozott mások vágyával, egy ideiglenes térkikötő formálódott - ahol a kötődések vezetik a hajókat, nem a fizika és a mágia törvényei.  
+    Azóta a karavánok maguktól jelennek meg, nem mindig azoknak, akik keresik őket - hanem akiket keresnek. Elyan-Sel nem lakott hely, hanem kapcsolatok tranzitpontja.
+    
+    - Leírás és megjelenés
+        - A város épületei légies sátrak, lebegő hajótestek, úszó rakpartok, mindig változnak
+        - Föld nincs alatta, csak kötelékszövet, ami minden mozdulatnál újrahúzódik
+        - A "talajon" halvány lélekfonalak kúsznak - minden lépés kötődéseket rezegtet meg
+        - A levegőben kristályszerű hangzások hallatszanak, ha két kapcsolat keresztezi egymást
+    
+    - Hatalom és rend
+        - Karavánmesterek (Bondguides):
+            - Nem irányítják az utazást, csak érzékelik a kötelékek irányát és sűrűségét
+            - Képesek egy megszakadt kapcsolatot visszavezetni - de mindig árat kérnek: valami mást kell elfelejteni cserébe
+        
+        - Lélekkufárok (Soultraders):
+            - Különleges tudati lények, akik érzelmi lenyomatokat árulnak, de nem hazudnak - csak torzítanak
+            - Kereskednek régi ígéretekkel, elfeledett nevek ízével, közös emlékek hőérzetével
+    - Helyi különlegességek
+        - A Szövethíd (Threadbridge):
+            - Egy lebegő híd, amit két lélek kötődése tart fenn - ha meginog a kapcsolat, a híd elhalványul
+            - Ha átkelsz rajta, a másik lélek megérzi az emlékedet, akárhol is van
+        
+        - A Lélektükör Pavilon (Pavilion of Reflection):
+            - Egy sátor, ahol a látogató nem saját nem saját alakját látja, hanem azt a lényeget, ahogy másokban megőrződött
+            - A kép változik minden látogatásnál - a kötelékek dinamikája szerint
+    
+    - Metális hatások:
+        - Az egyén ideiglenesen érzi, kikkel van még dolga, bármilyen síkon is vannak azok
+        - Álmokban valóban visszatérhet ide, és ott találhat valakit, akivel már nincs fizikai kapcsolatban
+        - Ha valaki elveszíti egy kapcsolatát, emlékkaraván indul el érte - ha képes vagy meghallani
+    
+    - Mondások Elyan-Selről:
+        - "Aki itt vár, nem keres. Aki keres, már elindult." - Karavánmesteri mondás
+        - "A szekér, amit nem hívtál - lehet, hogy érted jött." - Lélekkufár figyelmeztetés
+        - "A kikötő nem kérdez nevet - csak érzést." - Régi jelzés a Szövethíd bejáratán
