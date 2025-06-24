@@ -1,5 +1,42 @@
 # <u>Aethereon - World Framework</u>
 
+## Table of Contents
+1. [A világ keletkezése / World Creation](#a-világ-keletkezése--world-creation)
+2. [Aetherion földjei / Regions of Aetherion](#aetherion-földjei--regions-of-aetherion)
+3. [Mágia és hatalom forrása / Source of Magic and Power](#mágia-és-hatalom-forrása--source-of-magic-and-power)
+4. [Fő konfliktus / Core conflict](#fő-konfliktus--core-conflict)
+5. [Frackiók és népek / Fractions and Races](#frackiók-és-népek--fractions-and-races)
+6. [Hierarchia](#hierarchia)
+    - [Ősüresség - Plane of Void](#ősüresség---plane-of-void)
+    - [Lélek síkja - Plane of Soul](#lélek-síkja---plane-of-soul)
+    - [Fény Síkja - Plane of Light](#fény-síkja---plane-of-light)
+    - [Tűz Síkja - Plane of Fire](#tűz-síkja---plane-of-fire)
+    - [Árny Síkja - Plane of Shadow](#árny-síkja---plane-of-shadow)
+7. [Jelentős Helyszínek / Major Locations](#jelentős-helyszínek--major-locations)
+    - [Tűz Síkja - Plane of Fire](#tűz-síkja---plane-of-fire-1)
+    - [Árny Síkja - Plane of Shadow](#árny-síkja---plane-of-shadow-1)
+    - [Lélek Síkja - Plane of Soul](#lélek-síkja---plane-of-soul-1)
+    - [Fény Síkja - Plane of Light](#fény-síkja---plane-of-light-1)
+    - [Ősüresség - Plane of Void](#ősüresség---plane-of-void-1)
+    - [Síkközi helyszínek / Interdimensional Locations](#síkközi-helyszínek--interdimensional-locations)
+8. [Eredettörténetek / Origin Stories](#eredettörténetek--origin-stories)
+    - [Skarnor, a Vándorló Torony](#skarnor-a-vándorló-torony)
+    - [Cindrel-Arath, a Lávaszívű Város](#cindrel-arath-a-lávaszívű-város)
+    - [A Perzselő Fennsík](#a-perzselő-fennsík)
+    - [Baer-Innur, az Örökláng Kohója](#baer-innur-az-örökláng-kohója)
+    - [Lángoló Lépcsők](#lángoló-lépcsők)
+    - [Veridal, a Parázsló Dómváros](#veridal-a-parázsló-dómváros)
+    - [Vel'Tharien, az Árnynemesek Birodalma](#veltharien-az-árnynemesek-birodalma)
+    - [Threvak-Kripta](#threvak-kripta)
+    - [Csillagtalan Mélység](#csillagtalan-mélység)
+    - [Darn'Khael, az Elfeledett Királyság](#darnkhael-az-elfeledett-királyság)
+    - [A Fekete Folyó](#a-fekete-folyó)
+    - [Mael'Tir, az Árnyfák Labirintusa](#maeltir-az-árnyfák-labirintusa)
+    - [Kar'Sirath, az Árnyékcsontok Palotája](#karsirath-az-árnyékcsontok-palotája)
+    - [Thallmor Tölgyrengeteg](#thallmor-tölgyrengeteg)
+    - [A Suttogás Szurdoka](#a-suttogás-szurdoka)
+    - [Elyan-Sel, a Lélekkaraván Kikötője](#elyan-sel-a-lélekkaraván-kikötője)
+
 ## <u>A világ keletkezése / World Creation</u>
 - Ezer Törés Kora - Age of a Thousand Fractures
 - Szférák Háborúja - War of Planes
