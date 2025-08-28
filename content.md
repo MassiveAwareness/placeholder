@@ -30,11 +30,6 @@
 	- 16 kérdéses verzió esetén a 16. kérdésnél (a 15.-nél meg lehet majd)
 	- Dupla tipp használata közben
 - **Órák**
-	- Könnyű szakasz - 15 másodperc/kérdés
-	- Közepes szakasz - 30 másodperc/kérdés
-	- Középnehéz szakasz (<u>ha van</u>) - 45 másodperc/kérdés
-	- Nehéz szakasz - 60 másodperc/kérdés
-
 	<table style="border-collapse: collapse; width: 100%; text-align: center;">
   <thead>
     <tr>
