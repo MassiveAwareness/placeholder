@@ -147,8 +147,8 @@
   </tbody>
 </table>
 <br /><i>1 - Ezen funkció csak és kizárólag az órás verziókban lesz elérhető</i>
-<br /><i>2 - Ezen funkció 19. kérdésre vonatkozó mechanikája csak és kizárólag a 20-kérdéses verzióban lesz elérhető</i>
-<br /><i>3 - Ezen funkció csak és kizárólag a 20-kérdéses verzióban lesz elérhető</i>
+<i>2 - Ezen funkció 19. kérdésre vonatkozó mechanikája csak és kizárólag a 20-kérdéses verzióban lesz elérhető</i>
+<i>3 - Ezen funkció csak és kizárólag a 20-kérdéses verzióban lesz elérhető</i>
 <br />
 
 > Készítette: MassiveAwareness ([YouTube](https://www.youtube.com/@MassiveAwarenessOfficial))
