@@ -62,7 +62,7 @@
     <tr>
       <td style="padding: 8px; border: 1px solid #fff;">120</td>
       <td style="padding: 8px; border: 1px solid #fff;">Őrült/Végső</td>
-      <td style="padding: 8px; border: 1px solid #fff;">szakasztól függ</td>
+      <td style="padding: 8px; border: 1px solid #fff;">játéktípustól függ</td>
     </tr>
   </tbody>
 </table>
@@ -77,8 +77,8 @@
 	- A játékos, amitől aktiválta a Dupla tippet, annak hatályban léte alatt **más segítséget NEM használhat**
 	- A játékos **nem állhat meg** a Dupla tipp érvényességi ideje alatt, **muszáj válaszolnia**
 	- A játékos, amennyiben első válaszadása alkalmával helyesen válaszol, **nem "kapja vissza"** a segítséget, mely az elhasznált lesz onnantól
-- **Műsorvezető (<u>Nehéz szakasz</u>)** A játékos megkérdezheti a műsorvezetőt a kérdéssel kapcsolatban. Ilyenkor a műsorvezetőnek **minden külső forrás és segítség NÉLKÜL**, teljesen <u>őszintén</u> kell a játékosnak válaszolnia. Akár hosszabban is kifejtheti, akár egy betűt is mondhat, ez szabad döntés
-- **Kérdéscsere (<u>Nehéz szakasz</u>)** A játékos, ha túl nehéznek ítél meg egy kérdést, **kicserélheti egy másikra**. Ekkor a számítógép <u>megmutatja a helyes választ</u>, majd <u>sorsol egy ugyanolyan nehézségű</u> kérdést. Ezután az óra (<u>amennyiben van</u>) **visszaáll a maximális időre**, és a <u>válaszok megjelenítése után elindul</u>
+- **Műsorvezető (<u>Nehéz szakasz</u>)** A játékos megkérdezheti a műsorvezetőt a kérdéssel kapcsolatban. Ilyenkor a műsorvezetőnek **minden külső forrás és segítség NÉLKÜL**, teljesen <u>őszintén</u> kell a játékosnak válaszolnia. Akár hosszabban is kifejtheti, akár egy betűt is mondhat, ez szabad döntés.
+- **Kérdéscsere (<u>Nehéz szakasz</u>)** A játékos, ha túl nehéznek ítél meg egy kérdést, **kicserélheti egy másikra**. Ekkor a számítógép <u>megmutatja a helyes választ</u>, majd <u>sorsol egy ugyanolyan nehézségű</u> kérdést. Ezután az óra (<u>amennyiben van</u>) **visszaáll a maximális időre**, és a <u>válaszok megjelenítése után elindul</u>.
 
 - **Egyéb funkciók**
 	- **Kérdés kihagyása (14. és 19. kérdés, csak az órás verziókban érhető el)** - A játékosnak az előbb megnevezett kérdések előtt kap egy választási lehetőséget, miszerint:
@@ -134,19 +134,21 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #fff;">Kérdés kihagyása</td>
-      <td style="padding: 8px; border: 1px solid #fff;">14. és 19. kérdés<sup>1</sup></td>
+      <td style="padding: 8px; border: 1px solid #fff;">14/15. és 19. kérdés<sup>1</sup> <sup>2</sup></td>
       <td style="padding: 8px; border: 1px solid #fff;">Nem</td>
       <td style="padding: 8px; border: 1px solid #fff;">Nem</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #fff;">Újraélesztés/Amplifikáció</td>
-      <td style="padding: 8px; border: 1px solid #fff;">16. kérdés</td>
+      <td style="padding: 8px; border: 1px solid #fff;">16/17. kérdés<sup>3</sup></td>
       <td style="padding: 8px; border: 1px solid #fff;">Nem</td>
       <td style="padding: 8px; border: 1px solid #fff;">Nem</td>
     </tr>
   </tbody>
 </table>
 <br /><i>1 - Ezen funkció csak és kizárólag az órás verziókban lesz elérhető</i>
+<br /><i>2 - Ezen funkció 19. kérdésre vonatkozó mechanikája csak és kizárólag a 20-kérdéses verzióban lesz elérhető</i>
+<br /><i>3 - Ezen funkció csak és kizárólag a 20-kérdéses verzióban lesz elérhető</i>
 <br />
 
 > Készítette: MassiveAwareness ([YouTube](https://www.youtube.com/@MassiveAwarenessOfficial))
