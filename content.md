@@ -13,7 +13,7 @@
 			- Közepes szakasz **(6-10. kérdés)**
 			- Nehéz szakasz **(11-15. kérdés)**
 			- Őrült szakasz **(16-20. kérdés)**
-		- **<u>5×4 biztonságosan mód esetén</u>**
+		- **<u>5×4 biztonságos mód esetén</u>**
 			- Könnyű szakasz **(1-4. kérdés)**
 			- Közepes szakasz **(5-8. kérdés)**
 			- Középnehéz szakasz **(9-12. kérdés)**
