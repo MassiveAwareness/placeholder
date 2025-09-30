@@ -46,6 +46,7 @@ static bool isBoldog(int n) {
 
 static void exercise1()
 {
+    printf("1. feladat\n");
     int num;
 
     do {
@@ -58,6 +59,7 @@ static void exercise1()
 
 static void exercise2()
 {
+    printf("\n2. feladat\n");
     float num;
 
     for (int i = 0; i < 5; i++) {
@@ -69,6 +71,7 @@ static void exercise2()
 
 static void exercise3()
 {
+    printf("\n3. feladat\n");
     float num;
     int positives = 0;
 
@@ -86,6 +89,7 @@ static void exercise3()
 
 static void exercise4()
 {
+    printf("\n4. feladat\n");
     int num;
     int evens = 0;
 
@@ -107,6 +111,7 @@ static void exercise4()
 
 static void exercise5()
 {
+    printf("\n5. feladat\n");
     float prev, current;
     int count = 0;
 
@@ -131,6 +136,7 @@ static void exercise5()
 
 static void exercise6()
 {
+    printf("\n6. feladat\n");
     int width = 0, height = 0;
 
     printf("Width of rectangle: ");
@@ -149,6 +155,7 @@ static void exercise6()
 
 static void exercise7()
 {
+    printf("\n7. feladat\n");
     int width = 0, height = 0;
 
     printf("Width of rectangle: ");
@@ -172,6 +179,7 @@ static void exercise7()
 
 static void exercise8()
 {
+    printf("\n8. feladat\n");
     int num;
 
     printf("Input an integer: ");
@@ -187,6 +195,7 @@ static void exercise8()
 
 static void exercise9()
 {
+    printf("\n9. feladat\n");
     printf("Star table 1-10:\n\n");
 
     printf("   |");
@@ -212,6 +221,7 @@ static void exercise9()
 
 static void exercise10()
 {
+    printf("\n10. feladat\n");
     int num, sum = 0;
 
     printf("Input an integer: ");
@@ -229,6 +239,7 @@ static void exercise10()
 
 static void exercise11()
 {
+    printf("\n11. feladat\n");
     printf("Primes less than 100:\n");
 
     for (int i = 2; i < 100; i++) {
@@ -241,6 +252,7 @@ static void exercise11()
 
 static void exercise12()
 {
+    printf("\n12. feladat\n");
     int less_than_10 = 0;
     int num;
 
@@ -259,6 +271,7 @@ static void exercise12()
 
 static void exercise13()
 {
+    printf("\n13. feladat\n");
     int num;
     int tries = 0;
 
@@ -275,6 +288,7 @@ static void exercise13()
 
 static void exercise14()
 {
+    printf("\n14. feladat\n");
     int num;
 
     printf("Integer: ");
